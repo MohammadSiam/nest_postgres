@@ -24,6 +24,14 @@
 
 ## Description
 
+## ENV
+DB_TYPE=postgres
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=125803
+DB_DATABASE=postgres2
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
